@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Learn Emojies</string>
+    <string name="ic_1f600">grinning face</string>
+    <string name="ic_1f603">grinning face with big eyes</string>
+    <string name="ic_1f604">grinning face with smiling eyes</string>
+    <string name="ic_1f601">beaming face with smiling eyes</string>
+    <string name="ic_1f606">grinning squinting face</string>
+    <string name="ic_1f605">grinning face with sweat</string>
+    <string name="ic_1f923">rolling on the floor laughing</string>
+    <string name="ic_1f602">face with tears of joy</string>
+    <string name="ic_1f642">slightly smiling face</string>
+    <string name="ic_1f643">upside-down face</string>
+    <string name="ic_1fae0">melting face</string>
+    <string name="ic_1f609">winking face</string>
+    <string name="ic_1f60a">smiling face with smiling eyes</string>
+    <string name="ic_1f607">smiling face with halo</string>
+    <string name="ic_1f970">smiling face with hearts</string>
+    <string name="ic_1f60d">smiling face with heart-eyes</string>
+    <string name="ic_1f629">star-struck</string>
+    <string name="ic_1f618">face blowing a kiss</string>
+    <string name="ic_1f617">kissing face</string>
+    <string name="ic_263a">smiling face</string>
+    <string name="ic_1f61a">kissing face with closed eyes</string>
+    <string name="ic_1f619">kissing face with smiling eyes</string>
+    <string name="ic_1f972">smiling face with tear</string>
+    <string name="ic_1f60b">face savoring food</string>
+    <string name="ic_1f61b">face with tongue</string>
+    <string name="ic_1f61c">winking face with tongue</string>
+    <string name="ic_1f62a">zany face</string>
+    <string name="ic_1f61d">squinting face with tongue</string>
+</resources>

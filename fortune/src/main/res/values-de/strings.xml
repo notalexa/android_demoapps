@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glückskekse</string>
+    <string name="collections">Sammlungen</string>
+    <string name="title_activity_settings">Keksdosen</string>
+    <string name="default_fortune">Eine Welt ohne Fortune ist wie ein Ritt ohne Pferd.\n\t\t-- Not Alexa</string>
+    <string name="de">{0} (Deutsch)</string>
+    <string name="en">{0} (Englisch)</string>
+</resources>

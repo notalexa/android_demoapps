@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="not.alexa.challenge.fortune.not.alexa.challenge.fortune.MainActivity">
+    <!--
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        android:title="@string/refresh"
+        app:showAsAction="never" />-->
+    <item
+        android:id="@+id/collections"
+        android:icon="@drawable/ic_collections"
+        android:orderInCategory="200"
+        android:title="@string/collections"
+        app:showAsAction="ifRoom" />
+</menu>

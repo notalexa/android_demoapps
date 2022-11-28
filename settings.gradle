@@ -1,0 +1,5 @@
+rootProject.name='android_demoapps'
+include ':math'
+include ':emoji'
+include ':fortune'
+include ':iknow'

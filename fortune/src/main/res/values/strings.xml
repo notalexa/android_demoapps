@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fortune Cookies</string>
+    <string name="collections">Collections</string>
+    <string name="title_activity_settings">Fortune Collections</string>
+    <string name="default_fortune">A world without fortune is like a ride without a horse.\n\t \t-- Not Alexa</string>
+    <string name="de">{0} (German)</string>
+    <string name="en">{0} (English)</string>
+</resources>

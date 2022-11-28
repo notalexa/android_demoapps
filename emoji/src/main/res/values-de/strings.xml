@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Emojies</string>
+    <string name="ic_1f600">Grinsendes Gesicht</string>
+    <string name="ic_1f603">Gesicht mit offenem Mund</string>
+    <string name="ic_1f604">Gesicht mit offenem Mund und lächelnden Augen</string>
+    <string name="ic_1f601">Grinsendes Gesicht mit lächelnden Augen</string>
+    <string name="ic_1f606">Gesicht mit offenem Mund und krampfhaft verschlossenen Augen</string>
+    <string name="ic_1f605">Gesicht mit offenem Mund und Schweißträne</string>
+    <string name="ic_1f923">Rollen auf dem Boden lachen</string>
+    <string name="ic_1f602">Gesicht mit Freudentränen</string>
+    <string name="ic_1f642">Leicht lächelndes Gesicht</string>
+    <string name="ic_1f643">Gesicht auf dem Kopf stehend</string>
+    <string name="ic_1fae0">Schmelzendes Gesicht</string>
+    <string name="ic_1f609">Zwinkerndes Gesicht</string>
+    <string name="ic_1f60a">Strahlendes Gesicht</string>
+    <string name="ic_1f607">Engelgesicht</string>
+    <string name="ic_1f970">Lächelndes Gesicht mit lächelnden Augen und Herzen</string>
+    <string name="ic_1f60d">Verliebtes Gesicht</string>
+    <string name="ic_1f629">Müdes Gesicht</string>
+    <string name="ic_1f618">Kuss werfendes Gesicht</string>
+    <string name="ic_1f617">Küssendes Gesicht</string>
+    <string name="ic_263a">Lächelndes Gesicht</string>
+    <string name="ic_1f61a">Küssendes Gesicht mit geschlossenen Augen</string>
+    <string name="ic_1f619">Küssendes Gesicht mit lächelnden Augen</string>
+    <string name="ic_1f972">Lächelndes Gesicht mit Träne</string>
+    <string name="ic_1f60b">Sich mit der Zunge abschleckendes Gesicht</string>
+    <string name="ic_1f61b">Zunge ausstreckendes Gesicht</string>
+    <string name="ic_1f61c">Zwinkerndes, Zunge ausstreckendes Gesicht</string>
+    <string name="ic_1f62a">Schläfriges Gesicht</string>
+    <string name="ic_1f61d">Zunge ausstreckendes Gesicht mit krampfhaft verschlossenen Augen</string>
+</resources>

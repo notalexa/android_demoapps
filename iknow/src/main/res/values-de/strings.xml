@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ich weiß</string>
+    <string name="title_activity_display_i_know">Ich weiß</string>
+    <string name="button_iknow">Ich weiß es</string>
+    <string name="text_iknow">Wenn Sie wissen, wie man das Smartphone entsperrt, berühren Sie \"Ich weiß es\".</string>
+</resources>
